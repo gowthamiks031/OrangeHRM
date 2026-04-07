@@ -56,7 +56,7 @@ src/test/java
 
 1. Clone the repository:
    ```
-   git clone <your-github-repo-link>
+   git clone https://github.com/gowthamiks031/OrangeHRM.git
    ```
 2. Open the project in your IDE
 
