@@ -25,6 +25,9 @@ WebElement txt_password;
 @FindBy(xpath="//button[normalize-space()='Login']") 
 WebElement btn_login;
 
+@FindBy(xpath="//h6[normalize-space()='Dashboard']")
+WebElement txt_dashboard;
+
 
 //action methods
 
@@ -47,6 +50,17 @@ public void login()
 {
 	btn_login.click();
 	
+}
+
+public String dashboardicon()
+{
+	try {
+		
+		return(txt_dashboard.getText());
+	}catch(Exception e)
+	{
+		return(e.getMessage());
+	}
 }
 	}
 

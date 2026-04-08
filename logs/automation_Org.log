@@ -1,0 +1,27 @@
+07:46:40.406 [main] INFO  testCases.TC001_Login.logindetails(TC001_Login.java:15)oggger - ***Starting TC001_Login ***
+07:46:40.465 [main] INFO  testCases.TC001_Login.logindetails(TC001_Login.java:18)oggger - Launched OrangeHRM Website successfully
+07:46:40.968 [main] INFO  testCases.TC001_Login.logindetails(TC001_Login.java:21)oggger - Entered username and password
+07:46:41.068 [main] INFO  testCases.TC001_Login.logindetails(TC001_Login.java:23)oggger - Logged into OrangeHRM application successfully
+07:46:41.070 [main] INFO  testCases.TC001_Login.logindetails(TC001_Login.java:31)oggger - ***Finished TC001_Login ***
+07:51:20.185 [main] INFO  testCases.TC001_Login.logindetails(TC001_Login.java:15)oggger - ***Starting TC001_Login ***
+07:51:20.226 [main] INFO  testCases.TC001_Login.logindetails(TC001_Login.java:18)oggger - Launched OrangeHRM Website successfully
+07:51:20.667 [main] INFO  testCases.TC001_Login.logindetails(TC001_Login.java:21)oggger - Entered username and password
+07:51:20.774 [main] INFO  testCases.TC001_Login.logindetails(TC001_Login.java:23)oggger - Logged into OrangeHRM application successfully
+07:51:20.776 [main] INFO  testCases.TC001_Login.logindetails(TC001_Login.java:31)oggger - ***Finished TC001_Login ***
+09:35:06.599 [main] INFO  testCases.TC001_Login.logindetails(TC001_Login.java:15)oggger - ***Starting TC001_Login ***
+09:35:06.652 [main] INFO  testCases.TC001_Login.logindetails(TC001_Login.java:18)oggger - Launched OrangeHRM Website successfully
+09:35:07.378 [main] INFO  testCases.TC001_Login.logindetails(TC001_Login.java:21)oggger - Entered username and password
+09:35:07.506 [main] INFO  testCases.TC001_Login.logindetails(TC001_Login.java:23)oggger - Logged into OrangeHRM application successfully
+09:35:07.508 [main] INFO  testCases.TC001_Login.logindetails(TC001_Login.java:31)oggger - ***Finished TC001_Login ***
+09:37:03.683 [main] INFO  testCases.TC001_Login.logindetails(TC001_Login.java:15)oggger - ***Starting TC001_Login ***
+09:37:03.730 [main] INFO  testCases.TC001_Login.logindetails(TC001_Login.java:18)oggger - Launched OrangeHRM Website successfully
+09:37:04.339 [main] INFO  testCases.TC001_Login.logindetails(TC001_Login.java:21)oggger - Entered username and password
+09:37:04.459 [main] INFO  testCases.TC001_Login.logindetails(TC001_Login.java:23)oggger - Logged into OrangeHRM application successfully
+09:37:04.460 [main] INFO  testCases.TC001_Login.logindetails(TC001_Login.java:31)oggger - ***Finished TC001_Login ***
+13:58:26.477 [main] INFO  testCases.TC001_Login.logindetails(TC001_Login.java:16)oggger - ***Starting TC001_Login ***
+13:58:26.555 [main] INFO  testCases.TC001_Login.logindetails(TC001_Login.java:19)oggger - Launched OrangeHRM Website successfully
+13:58:32.012 [main] INFO  testCases.TC001_Login.logindetails(TC001_Login.java:22)oggger - Entered username and password
+14:10:22.415 [main] INFO  testCases.TC001_Login.logindetails(TC001_Login.java:16)oggger - ***Starting TC001_Login ***
+14:10:22.467 [main] INFO  testCases.TC001_Login.logindetails(TC001_Login.java:19)oggger - Launched OrangeHRM Website successfully
+14:10:25.238 [main] INFO  testCases.TC001_Login.logindetails(TC001_Login.java:22)oggger - Entered username and password
+14:10:36.507 [main] ERROR testCases.TC001_Login.logindetails(TC001_Login.java:32)oggger - Test failed....
